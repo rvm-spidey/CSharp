@@ -1,0 +1,15 @@
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.deps.json
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.runtimeconfig.json
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.dll
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/bin/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.AssemblyInfo.cs
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.sourcelink.json
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.dll
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/refint/AboutMyEnvironment.dll
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.pdb
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/AboutMyEnvironment.genruntimeconfig.cache
+/Users/yashveermonohur/Desktop/CSharp/Chapter01/AboutMyEnvironment/obj/Debug/net8.0/ref/AboutMyEnvironment.dll
